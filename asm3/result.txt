@@ -1,0 +1,127 @@
+
+       LID LEAGUE_NAME                    REGION_NAME                           
+---------- ------------------------------ ------------------------------        
+      YEAR                                                                      
+----------                                                                      
+         4 England Super League           England                               
+      2016                                                                      
+                                                                                
+         5 England Super League           England                               
+      2017                                                                      
+                                                                                
+         6 England Super League           England                               
+      2018                                                                      
+                                                                                
+
+       LID LEAGUE_NAME                    REGION_NAME                           
+---------- ------------------------------ ------------------------------        
+      YEAR                                                                      
+----------                                                                      
+        10 China People League            China                                 
+      2016                                                                      
+                                                                                
+        11 China People League            China                                 
+      2017                                                                      
+                                                                                
+        12 China People League            China                                 
+      2018                                                                      
+                                                                                
+
+       LID LEAGUE_NAME                    REGION_NAME                           
+---------- ------------------------------ ------------------------------        
+      YEAR                                                                      
+----------                                                                      
+        15 J-League                       Japan                                 
+      2018                                                                      
+                                                                                
+        16 Germany First Class League     Germany                               
+      2017                                                                      
+                                                                                
+        18 Brazil Summer League           Brazil                                
+      2017                                                                      
+                                                                                
+
+       LID LEAGUE_NAME                    REGION_NAME                           
+---------- ------------------------------ ------------------------------        
+      YEAR                                                                      
+----------                                                                      
+        19 Italy League                   Italy                                 
+      2017                                                                      
+                                                                                
+        20 USA National League            United States                         
+      2017                                                                      
+                                                                                
+
+11 rows selected.
+
+
+       TID TEAM_NAME                      AVERAGE_AGE                           
+---------- ------------------------------ -----------                           
+         1 South Hong Kong                         30                           
+         7 Tokyo Sakura                            25                           
+
+
+       TID TEAM_NAME                      AVERAGE_AGE SEASON          W_NUM     
+---------- ------------------------------ ----------- ---------- ----------     
+         1 South Hong Kong                         30 Autumn              3     
+         1 South Hong Kong                         30 Spring              1     
+         2 Dai Lin                               28.7 Spring              1     
+         3 Shanghai                                27 Spring              1     
+         4 Men United                              29 Winter              2     
+         5 Old Castle                              35 Summer              2     
+         6 AD Millan                               29 Spring              1     
+         8 Osaka Hana                            32.4 Spring              1     
+        12 Chicago Cow                             24 Spring              1     
+
+9 rows selected.
+
+
+       SID SPONSOR_NAME                        L_NUM                            
+---------- ------------------------------ ----------                            
+         1 Koka-Kola                               3                            
+         2 SOLY                                    3                            
+         3 Panesony                                3                            
+         4 Appla                                   3                            
+         5 McDonna                                 1                            
+
+
+       LID LEAGUE_NAME                                                          
+---------- ------------------------------                                       
+        14 J-League                                                             
+        13 J-League                                                             
+         9 England Winter League                                                
+
+
+       SID        HOT                                                           
+---------- ----------                                                           
+         3 .037635246                                                           
+
+
+       RID      HOT_4      HOT_5      HOT_6      HOT_7   HOT_HIGH               
+---------- ---------- ---------- ---------- ---------- ----------               
+         9 .018618257            .026500104 .095644192 .095644192               
+         8 .022453656            .070046068            .070046068               
+         7                                                      0               
+         6                                                      0               
+         5                                                      0               
+         4                                                      0               
+         3  .08334136                                   .08334136               
+         2            .014221613                       .014221613               
+         1                       .125121357            .125121357               
+
+9 rows selected.
+
+
+       SID SPONSOR_NAME                                                         
+---------- ------------------------------                                       
+         1 Koka-Kola                                                            
+         2 SOLY                                                                 
+         3 Panesony                                                             
+         4 Appla                                                                
+         6 Pizza LA                                                             
+         7 4HK                                                                  
+         8 Hennikan                                                             
+         9 Soga                                                                 
+
+8 rows selected.
+
